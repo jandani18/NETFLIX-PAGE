@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+ 
+    background-image: url(netflix.jpg);
+    height: 100vh;
+ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.89;
+}
+h1 b{
+color: red;
+margin-left: 20px;
+font-weight: 30px;
+padding-top: 60%;
+
+}
+.button2{
+    background-color: rgb(15, 9, 9);
+    color: white;
+    width: 100%;
+    padding: 10PX;
+
+}
+H3{
+    font-size: 20PX;
+}
+H4{
+    font-size: 22PX;
+}
+H5{
+    font-size: 16PX;
+}
+.sub{
+    width: 400px;
+    border: solid 2px black;
+    margin: 0 auto;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.558);
+    padding: 52px;
+}
+
+.id{
+        padding-top: 80px;
+}
+
+h1{
+    text-align: left;
+    display: block;
+}
+
+.form input{
+    background-color: transparent;
+    height: 50px;
+    width: 100%;
+    text-align: left;
+    color: white;
+}
+
+.button{
+    height: 40px;
+    width: 102%;
+    background-color: red;
+    color: white;
+}
+
+.box1{
+    height: 40px;
+    width: 102%;
+    background-color: rgba(0, 0, 0, 0.326);
+    color: white;
+}
+H4{
+    text-align: center;
+}
